@@ -1,6 +1,6 @@
 # StackLane
 
-**Welcome to Taskane AI's official organisation.**
+**Welcome to StackLane's!**
 
 ![StackLane Banner](./StackLane%20Banner.png)
 
