@@ -2,7 +2,7 @@
 
 **Welcome to StackLane's!**
 
-![StackLane Banner](./StackLane%20Banner.png)
+![StackLane Banner](./banner.png)
 
 **StackLane** by **PurpleShorts** is a forward-thinking bootcamp-first upskilling brand focused on bridging the gap between academia and industry. We collaborate with visionary educational institutions that dare to innovate and go beyond traditional learning models—empowering students with real-world skills that align with current and future industry demands.
 
